@@ -1,0 +1,20 @@
+::selection{color:#549500;background:#dcdcdc;}
+::-moz-selection{color:#549500;background:#dcdcdc;}
+a:link,a:visited{color:#549500;text-decoration:none;}
+a:hover{text-decoration:underline}
+.topnav li a:link,.topnav li a:visited{border-bottom:#549500 1px solid;}
+.topnav li a:hover{color:#356700;}
+#header{background:url(../images/line4.gif) repeat-x bottom;height:142px;}
+.topnav ul ul li{border-top:1px #549500 solid;}
+.topnav li.li01 a{color:#549500}
+.topnav li.li01 a:hover{color:#356700;}
+.topnav li.li01 li a{color:#549500;}
+.topnav li.li01 li a:hover{border-bottom:1px #549500 solid;}
+.topnav li li.li01 a{color:#549500;}
+.topnav li li.li01 ul a{color:#549500;}
+.topnav li li.li01 ul a:hover{border-bottom:1px #549500 solid;}
+.post_date{border-top:5px #549500 solid;}
+.main ul li h2,.main .left h2{background:url(../images/line4.gif) repeat-x bottom;}
+#sidebar h3{background:url(../images/line4.gif) repeat-x bottom;}
+#footer{background:url(../images/line4.gif) repeat-x top;}
+#calendar_wrap table thead th{background:#8ADC8A;}
